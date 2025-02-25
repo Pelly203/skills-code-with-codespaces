@@ -8,5 +8,5 @@ gewoon text
 ##### 5
 ###### 6
  steeds kleiner?
- _dit dit nog iets \_ /ff
+Maar **BOLD** is wel een ding
 
