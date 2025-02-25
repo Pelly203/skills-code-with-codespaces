@@ -1,12 +1,12 @@
-### You are learning about codespaces!
-# Writing code upon codespace creation!
-gewoon text
-# 1
-## 2
-### 3
-#### 4
-##### 5
-###### 6
- steeds kleiner?
-Maar **BOLD** is wel een ding
+1. Open the file.
+2. Find the following code block on line 21:
+  
+         <html>
+          <head>
+            <title>Test</title>
+          </head>
 
+5. Update the title to `match` the name of your website.
+
+
+---
